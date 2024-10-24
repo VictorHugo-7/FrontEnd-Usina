@@ -7,6 +7,7 @@ Projeto integrador de front-end desenvolvido no Instituto Mauá de Tecnologia no
 * <img src="img-readme/js.png" width="35" alt="Logo do JavaScript"> JavaScript
 * <img src="img-readme/mongodb.png" width="35" alt="Logo do MongoDB"> MongoDB
 * <img src="img-readme/nodejs.png" width="35" alt="Logo do Node.js"> Node.js
+* <img src="img-readme/bootstrap.png" width="35" alt="Logo do Bootstrap"> Bootstrap
 * <img src="img-readme/figma.png" width="35" alt="Logo do Figma"> Figma
 
 ## Participantes
